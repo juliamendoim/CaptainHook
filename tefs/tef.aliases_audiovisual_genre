@@ -1,0 +1,23 @@
+{
+    "corto": [
+        "cortometraje"
+    ],
+    "documental": [
+    ],
+    "musical": [
+    ],
+    "película": [
+        "cine",
+        "peli"
+    ],
+    "programa de televisión": [
+        "programa",
+        "programa de tv",
+        "show"
+    ],
+    "serie": [
+        "novela",
+        "telenovela",
+        "ficción"
+    ]
+}
